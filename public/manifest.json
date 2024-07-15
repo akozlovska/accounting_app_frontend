@@ -1,0 +1,8 @@
+{
+  "short_name": "Accounting App",
+  "name": "Basic Accounting App with Authentication",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0d6efd",
+  "background_color": "#ffffff"
+}
